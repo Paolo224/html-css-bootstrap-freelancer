@@ -26,6 +26,15 @@ header{
 }
 
 .linee-bianche{
-    height: 5px;
+    height: 2px;
     background-color: white;
+}
+
+.linee-nere{
+    height: 2px;
+    background-color: #212529;
+}
+
+.testo-small{
+    font-size: .8rem;
 }
